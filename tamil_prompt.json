@@ -1,0 +1,407 @@
+{
+  "scene": 1,
+  "title": "The Glory of Tamil Culture",
+  "duration_seconds": 8,
+  "aspect_ratio": "16:9",
+  "SCALE": {
+    "Subject": {
+      "main_subject": "Tamil Nadu's rich cultural heritage, Dravidian architecture, classical dance, bronze sculptures, silk weaving, and traditional customs",
+      "key_elements": [
+        "Brihadeeswarar Temple in Thanjavur",
+        "Bharatanatyam dancer wearing traditional silk costume and temple jewellery",
+        "Kanchipuram silk weavers working on a traditional loom",
+        "Tamil woman creating a kolam outside a traditional house",
+        "Intricately carved granite pillars and Chola bronze sculptures"
+      ]
+    },
+    "Composition": {
+      "shot_type": "Ultra-wide cinematic establishing shot transitioning into medium shots and close-ups",
+      "opening_frame": "Aerial view of Brihadeeswarar Temple illuminated by golden sunrise",
+      "camera_movement": "Slow aerial descent, smooth forward dolly, gentle lateral tracking, and detailed close-ups",
+      "visual_hierarchy": "The monumental temple remains the visual anchor while dance, weaving, sculpture, and domestic traditions appear naturally within the environment",
+      "depth": "Foreground architectural details, active cultural scenes in the middle distance, and a warm tropical sky in the background"
+    },
+    "Action": {
+      "primary_action": "Reveal the grandeur and continuity of Tamil cultural traditions",
+      "sequence": [
+        "The camera glides toward the towering temple vimana",
+        "A Bharatanatyam dancer performs a graceful classical gesture",
+        "Silk threads move through a traditional weaving loom",
+        "A woman completes a detailed kolam pattern",
+        "Sunlight illuminates bronze sculptures and carved granite"
+      ],
+      "motion": "Natural fabric movement, subtle hand gestures, gentle incense smoke, and slow cinematic camera movement",
+      "transition_out": "The camera moves toward a traditional brass vessel, transitioning through a warm golden highlight into the culinary scene"
+    },
+    "Location": {
+      "setting": "Thanjavur and Kanchipuram, Tamil Nadu, southern India",
+      "environment": "Historic Dravidian temple architecture, traditional homes, artisan workshops, tropical vegetation, and stone courtyards",
+      "time": "Early morning golden hour"
+    },
+    "Esthetic": {
+      "style": "Photorealistic cinematic historical documentary",
+      "lighting": "Warm natural sunlight with realistic shadows and soft atmospheric haze",
+      "colour_palette": [
+        "Temple granite grey",
+        "Silk maroon",
+        "Antique bronze",
+        "Turmeric gold",
+        "Leaf green"
+      ],
+      "camera": "Cinematic wide-angle lens, deep environmental detail, controlled perspective",
+      "quality": "High-resolution detail, realistic skin textures, natural motion, documentary authenticity",
+      "audio_mood": "Subtle traditional South Indian instrumental ambience",
+      "negative_prompt": [
+        "Cartoon rendering",
+        "Fantasy temple architecture",
+        "Distorted hands or faces",
+        "Incorrect dance costumes",
+        "Artificial fabric textures",
+        "Excessive lens flare",
+        "Text overlays",
+        "Watermarks"
+      ]
+    }
+  }
+}
+{
+  "scene": 2,
+  "title": "The Taste of Tamil Nadu",
+  "duration_seconds": 6,
+  "aspect_ratio": "16:9",
+  "SCALE": {
+    "Subject": {
+      "main_subject": "The culinary excellence and regional food traditions of Tamil Nadu",
+      "key_elements": [
+        "Banana-leaf meal with rice, sambar, rasam, poriyal, kootu, and appalam",
+        "Fresh idli, crispy dosa, medu vada, and coconut chutney",
+        "Chettinad spices and traditional cooking ingredients",
+        "Clay cooking pots and traditional kitchen utensils",
+        "South Indian filter coffee served in a stainless-steel davara and tumbler"
+      ]
+    },
+    "Composition": {
+      "shot_type": "Cinematic food macro sequence with realistic close-ups",
+      "opening_frame": "Steam rising from freshly prepared idlis beside a banana-leaf meal",
+      "camera_movement": "Slow lateral tracking, macro push-ins, and gentle overhead movement",
+      "visual_hierarchy": "Food textures dominate the foreground while traditional cooking activity remains visible behind them",
+      "depth": "Shallow depth of field for food details and natural environmental depth for the kitchen"
+    },
+    "Action": {
+      "primary_action": "Showcase the preparation, serving, aroma, and visual richness of Tamil cuisine",
+      "sequence": [
+        "Fresh idlis release delicate steam",
+        "A cook serves rice and sambar onto a banana leaf",
+        "Dosa batter spreads across a hot iron griddle",
+        "Traditional spices are prepared in a stone grinder",
+        "Filter coffee pours between a tumbler and davara"
+      ],
+      "motion": "Natural steam, flowing coffee, subtle cooking movements, and realistic liquid behaviour",
+      "transition_out": "A curl of steam fills the frame and dissolves into the soft light of an ancient manuscript room"
+    },
+    "Location": {
+      "setting": "Traditional Tamil household kitchen and Chettinad-inspired culinary setting",
+      "environment": "Earth-toned walls, traditional cookware, spice containers, banana leaves, and natural ventilation",
+      "time": "Warm morning light"
+    },
+    "Esthetic": {
+      "style": "Photorealistic cinematic food documentary",
+      "lighting": "Soft directional sunlight with natural highlights",
+      "colour_palette": [
+        "Banana-leaf green",
+        "Turmeric yellow",
+        "Spice orange",
+        "Rice white",
+        "Earthy terracotta"
+      ],
+      "camera": "Macro lens, controlled focus pulls, smooth slow-motion details",
+      "quality": "Highly realistic food textures, natural steam, accurate utensils, balanced colour grading",
+      "audio_mood": "Gentle cooking sounds, sizzling dosa, pouring coffee, subtle traditional instrumental music",
+      "negative_prompt": [
+        "Artificial food textures",
+        "Floating ingredients",
+        "Excessive steam",
+        "Unrealistic liquid physics",
+        "Oversaturated colours",
+        "Modern appliances in historical settings",
+        "Text overlays",
+        "Watermarks"
+      ]
+    }
+  }
+}
+{
+  "scene": 3,
+  "title": "Language, Communication and Knowledge",
+  "duration_seconds": 8,
+  "aspect_ratio": "16:9",
+  "SCALE": {
+    "Subject": {
+      "main_subject": "Ancient Tamil literary traditions, communication systems, scholarly knowledge, inscriptions, and maritime exchange",
+      "key_elements": [
+        "Tamil-Brahmi inscriptions carved into stone",
+        "Palm-leaf manuscripts containing classical Tamil literature",
+        "A scholar using a traditional stylus",
+        "Ancient merchants exchanging goods",
+        "Wooden sailing vessels and historical coastal trade",
+        "Traditional methods of recording and transmitting knowledge"
+      ]
+    },
+    "Composition": {
+      "shot_type": "Historical documentary sequence progressing from macro details to a wide environmental shot",
+      "opening_frame": "Extreme close-up of a historically grounded Tamil-Brahmi inscription",
+      "camera_movement": "Slow tracking along stone characters, gentle dolly toward manuscripts, and a smooth pullback",
+      "visual_hierarchy": "Writing and manuscripts are the primary focus, followed by the people and trade networks that transmitted knowledge",
+      "depth": "Sharp inscription details in the foreground, a scholar in the middle ground, and a softly lit traditional interior behind"
+    },
+    "Action": {
+      "primary_action": "Demonstrate how written knowledge, scholarship, and trade connected ancient Tamil communities",
+      "sequence": [
+        "The camera travels across carved stone characters",
+        "A scholar carefully opens a palm-leaf manuscript",
+        "A traditional stylus marks a prepared palm leaf",
+        "Merchants exchange goods at an ancient coastal settlement",
+        "Sailors prepare a wooden vessel for a maritime journey"
+      ],
+      "motion": "Careful hand movements, subtle drifting dust, gently moving palm leaves, and natural ship movement",
+      "transition_out": "The camera follows the silhouette of a wooden vessel toward the horizon, revealing a fleet in the next scene"
+    },
+    "Location": {
+      "setting": "Historically inspired Tamil scholarly environment and ancient Tamilakam coastal trading settlements",
+      "environment": "Stone inscription sites, palm-leaf manuscripts, wooden furniture, traditional marketplaces, and coastal harbours",
+      "time": "Late afternoon with warm directional sunlight"
+    },
+    "Esthetic": {
+      "style": "Photorealistic historical documentary",
+      "lighting": "Soft amber light, realistic shadows, and subtle volumetric sunlight",
+      "colour_palette": [
+        "Aged palm-leaf brown",
+        "Granite grey",
+        "Terracotta",
+        "Antique gold",
+        "Muted olive green"
+      ],
+      "camera": "Macro close-ups, slow dolly movements, cinematic depth of field",
+      "quality": "Authentic materials, restrained motion, historical plausibility, natural textures",
+      "audio_mood": "Soft page handling, stylus sounds, distant marketplace ambience, gentle instrumental score",
+      "negative_prompt": [
+        "Random pseudo-writing",
+        "Garbled modern Tamil text",
+        "Incorrect historical scripts",
+        "Plastic manuscripts",
+        "Modern pens in ancient scenes",
+        "Futuristic interfaces",
+        "Text overlays",
+        "Watermarks"
+      ]
+    }
+  }
+}
+{
+  "scene": 4,
+  "title": "Warriors and Maritime Power",
+  "duration_seconds": 8,
+  "aspect_ratio": "16:9",
+  "SCALE": {
+    "Subject": {
+      "main_subject": "The military organisation, defensive architecture, and maritime capabilities of historic Tamil kingdoms",
+      "key_elements": [
+        "Historically inspired Chola-era warriors",
+        "Period-appropriate shields, spears, and swords",
+        "Disciplined infantry formations",
+        "Stone fortifications and fortified gateways",
+        "Wooden sailing vessels with woven sails",
+        "Maritime expeditions across the Bay of Bengal"
+      ]
+    },
+    "Composition": {
+      "shot_type": "Cinematic historical epic with low-angle tracking and aerial maritime shots",
+      "opening_frame": "Low-angle view of disciplined warriors standing beside a fortified stone gateway",
+      "camera_movement": "Slow lateral tracking along the formation, followed by a rising crane movement and wide aerial fleet shot",
+      "visual_hierarchy": "Warriors establish the historical setting before the fleet becomes the main focus",
+      "depth": "Detailed weapons and armour in the foreground, fortifications in the middle ground, and distant ships or coastline in the background"
+    },
+    "Action": {
+      "primary_action": "Portray historical military organisation and maritime activity without inventing a specific battle",
+      "sequence": [
+        "Warriors advance in a disciplined formation",
+        "Banners and cloth move naturally in the wind",
+        "The camera reveals a fortified stone entrance",
+        "Sailors adjust ropes and sails on wooden vessels",
+        "A fleet moves across the Bay of Bengal toward the horizon"
+      ],
+      "motion": "Natural walking, physically plausible sail movement, rolling ocean waves, and controlled camera travel",
+      "transition_out": "The camera descends from the distant coastline toward an earthen archaeological landscape"
+    },
+    "Location": {
+      "setting": "Historically inspired Tamil fortified settlement and Bay of Bengal coastline",
+      "environment": "Stone defensive walls, tropical vegetation, wooden vessels, coastal waters, and weathered architecture",
+      "time": "Dramatic late-afternoon sunlight"
+    },
+    "Esthetic": {
+      "style": "Photorealistic historical epic documentary",
+      "lighting": "Warm directional sunlight with realistic shadows and atmospheric sea haze",
+      "colour_palette": [
+        "Weathered granite",
+        "Iron grey",
+        "Antique bronze",
+        "Deep ocean blue",
+        "Earthy red"
+      ],
+      "camera": "Wide-angle lens, low tracking shots, sweeping aerial movements, realistic motion blur",
+      "quality": "Historically plausible clothing, weapons, ship construction, and physically realistic movement",
+      "audio_mood": "Low cinematic percussion, wind, footsteps, sail movement, and ocean ambience",
+      "negative_prompt": [
+        "Fantasy armour",
+        "Modern firearms",
+        "Modern warships",
+        "Futuristic weapons",
+        "Unrealistic ships",
+        "Exaggerated combat",
+        "Unnatural body movements",
+        "Text overlays",
+        "Watermarks"
+      ]
+    }
+  }
+}
+{
+  "scene": 5,
+  "title": "Archaeology and Discovery at Keezhadi",
+  "duration_seconds": 8,
+  "aspect_ratio": "16:9",
+  "SCALE": {
+    "Subject": {
+      "main_subject": "Archaeological investigation of ancient Tamil settlement life through excavated structures, pottery, inscriptions, and material culture",
+      "key_elements": [
+        "Archaeological trenches at Keezhadi",
+        "Exposed ancient brick structures",
+        "Pottery fragments and terracotta objects",
+        "Carefully documented archaeological artefacts",
+        "Researchers measuring and photographing finds",
+        "Historically appropriate Tamil-Brahmi inscription examples where verified"
+      ]
+    },
+    "Composition": {
+      "shot_type": "Scientific documentary establishing shot followed by ground-level tracking and macro details",
+      "opening_frame": "Elevated view of an organised archaeological excavation trench",
+      "camera_movement": "Slow descent, gentle tracking along exposed brickwork, and macro push-in toward pottery fragments",
+      "visual_hierarchy": "The excavation layout establishes context, while artefacts and researchers reveal the process of scientific investigation",
+      "depth": "Soil and pottery in the foreground, excavated brick structures in the middle ground, and the research environment in the background"
+    },
+    "Action": {
+      "primary_action": "Show the careful process of uncovering, documenting, and studying archaeological evidence",
+      "sequence": [
+        "The camera reveals an excavated trench",
+        "An archaeologist carefully brushes soil from a pottery fragment",
+        "A researcher measures a brick structure",
+        "An artefact is photographed and documented",
+        "The camera moves closer to the textures of pottery and ancient brickwork"
+      ],
+      "motion": "Delicate brushing, controlled hand movements, subtle soil particles, and slow documentary camera motion",
+      "transition_out": "The camera rises above the excavation, transitioning to a broad view of the Tamil Nadu coastline"
+    },
+    "Location": {
+      "setting": "Keezhadi archaeological excavation landscape, Sivaganga district, Tamil Nadu",
+      "environment": "Exposed brick structures, soil layers, pottery fragments, field documentation tools, and rural surroundings",
+      "time": "Soft morning sunlight"
+    },
+    "Esthetic": {
+      "style": "Photorealistic archaeological documentary",
+      "lighting": "Natural sunlight with soft shadows and restrained contrast",
+      "colour_palette": [
+        "Excavation soil brown",
+        "Terracotta orange",
+        "Ancient brick red",
+        "Muted sandstone",
+        "Natural vegetation green"
+      ],
+      "camera": "Wide environmental shots, macro artefact details, smooth tracking, realistic depth of field",
+      "quality": "Museum-quality material detail, evidence-based reconstruction, scientifically credible excavation procedures",
+      "audio_mood": "Subtle brushing sounds, footsteps on soil, distant birds, and restrained atmospheric music",
+      "negative_prompt": [
+        "Fantasy ruins",
+        "Glowing artefacts",
+        "Invented discoveries presented as fact",
+        "Careless excavation methods",
+        "Futuristic tools",
+        "Unrealistic inscriptions",
+        "Dramatic treasure effects",
+        "Text overlays",
+        "Watermarks"
+      ]
+    }
+  }
+}
+{
+  "scene": 6,
+  "title": "Tamil Nadu: A Living Civilisation",
+  "duration_seconds": 10,
+  "aspect_ratio": "16:9",
+  "SCALE": {
+    "Subject": {
+      "main_subject": "The continuity of Tamil civilisation, connecting ancient maritime trade, temple architecture, rural life, traditional crafts, and contemporary cultural identity",
+      "key_elements": [
+        "Shore Temple of Mamallapuram beside the Bay of Bengal",
+        "Historically inspired wooden sailing vessels",
+        "Traditional fishing boats and coastal communities",
+        "Tamil Nadu's paddy fields and coconut palms",
+        "Dravidian temple towers and village settlements",
+        "Artisans and performers maintaining living traditions"
+      ]
+    },
+    "Composition": {
+      "shot_type": "Ultra-wide cinematic finale with a continuous aerial journey from coast to countryside",
+      "opening_frame": "Sunrise over the Bay of Bengal with the Shore Temple visible on the coastline",
+      "camera_movement": "Smooth aerial glide above the water, forward movement past the temple, and a gradual rising pullback revealing inland landscapes",
+      "visual_hierarchy": "The Shore Temple and coastline anchor the opening, while the final panoramic view unites architecture, agriculture, people, and sea",
+      "depth": "Coastal rocks and waves in the foreground, temple and boats in the middle ground, and tropical landscapes in the distance"
+    },
+    "Action": {
+      "primary_action": "Unite the historical achievements and living traditions of Tamil Nadu in one uplifting visual journey",
+      "sequence": [
+        "Sunlight spreads across the Bay of Bengal",
+        "Traditional wooden vessels sail near the coastline",
+        "Waves break gently against the Shore Temple's rocky surroundings",
+        "The camera glides inland across coconut palms and paddy fields",
+        "Artisans and performers continue traditional activities",
+        "The camera rises into a wide panoramic finale connecting the coast, monuments, villages, and landscape"
+      ],
+      "motion": "Natural wave movement, gently moving sails, swaying palms, flowing fabric, and a smooth aerial pullback",
+      "transition_out": "Fade gently into a warm golden horizon, leaving clean visual space for a separately added closing title",
+      "closing_title_suggestion": "TAMIL NADU — WHERE HISTORY LIVES, CULTURE THRIVES, AND CIVILISATION ENDURES"
+    },
+    "Location": {
+      "setting": "Mamallapuram coastline and the wider landscapes of Tamil Nadu",
+      "environment": "Historic stone monuments, Bay of Bengal waters, coastal settlements, agricultural fields, coconut palms, and traditional villages",
+      "time": "Golden sunrise transitioning into warm morning light",
+      "historical_context": "Present ancient maritime and architectural heritage through historically inspired imagery, while depicting contemporary traditions in their appropriate setting"
+    },
+    "Esthetic": {
+      "style": "Photorealistic cinematic historical documentary finale",
+      "lighting": "Golden-hour sunlight, realistic coastal reflections, soft atmospheric haze, and balanced natural shadows",
+      "colour_palette": [
+        "Bay of Bengal blue",
+        "Antique gold",
+        "Temple granite grey",
+        "Paddy-field green",
+        "Earthy terracotta"
+      ],
+      "camera": "Ultra-wide aerial establishing shot, smooth drone-like glide, controlled rising pullback, deep atmospheric perspective",
+      "quality": "High-resolution cinematic detail, realistic coastal physics, natural colours, coherent geography, and documentary-level cultural authenticity",
+      "audio_mood": "Uplifting orchestral music blended with subtle traditional South Indian instrumentation, ocean waves, and gentle coastal ambience",
+      "negative_prompt": [
+        "Fantasy coastline",
+        "Incorrect temple architecture",
+        "Modern vessels in ancient scenes",
+        "Unrealistic ocean physics",
+        "Excessive lens flare",
+        "Artificial collage borders",
+        "Random text",
+        "Distorted people",
+        "Watermarks",
+        "Logos"
+      ]
+    }
+  }
+}
